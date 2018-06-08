@@ -1,0 +1,15 @@
+svg {
+    padding: 80px;
+}
+.logo {
+position: relative;
+
+margin: 0 auto;
+text-align: center;
+}
+#house {
+    position: absolute;
+}
+#pipe {
+    position: absolute;
+}
